@@ -56,6 +56,7 @@ python apply.py --colors pretrained/gen_doodles.hdf5colors.npy --target_mask dat
 
 ## Credits
 The code is based on [Justin Johnson's code](https://github.com/jcjohnson/neural-style) for artistic style.
+
 Uses [buckinha/DiamondSquare](https://github.com/buckinha/DiamondSquare) as is.
 
 Work is supported by Yandex and Skoltech.
