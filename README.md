@@ -3,7 +3,7 @@
 This repository merges [fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle) and  and [Texture Networks](https://github.com/DmitryUlyanov/texture_nets). Read the [blog post (coming soon)](soon) for the details on the doodle algorithm and the [paper](http://arxiv.org/abs/1603.03417) to learn more about texture networks.
 
 You can find an **online demo** at [likemo.net](http://likemo.net).
-
+![](data/starry/grid.png)
 ### Prerequisites
 - torch
   - [torch-hdf5](torch-hdf5)
@@ -17,12 +17,12 @@ You can find an **online demo** at [likemo.net](http://likemo.net).
   - h5py
   - joblib
 
-  A good guide on installation can be found [here](https://github.com/jcjohnson/neural-style/blob/master/INSTALL.md).  
+A good guide on installation can be found [here](https://github.com/jcjohnson/neural-style/blob/master/INSTALL.md).  
 
-  You also need to download VGG-19 recognition network.
-  ```
-  cd data/pretrained && bash download_models.sh && cd ../..
-  ```
+You also need to download VGG-19 recognition network.
+```
+cd data/pretrained && bash download_models.sh && cd ../..
+```
 
 ### Generate doodles for training
 
