@@ -1,5 +1,3 @@
-Learn a neural network from one image!
-
 ## Feed-forward neural doodle
 
 This repository merges [fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle) and  and [Texture Networks](https://github.com/DmitryUlyanov/texture_nets). Read the [blog post (coming soon)](soon) for the details on the doodle algorithm and the [paper](http://arxiv.org/abs/1603.03417) to learn more about texture networks.
@@ -53,10 +51,10 @@ A pretrained `starry_night` net is there in `pretrained` folder. You can try it 
 python apply.py --colors pretrained/gen_doodles.hdf5colors.npy --target_mask data/starry/style_mask.png --model pretrained/starry_night.t7
 ```
 
-# Hardware
+## Hardware
 - The code was tested with 12GB NVIDIA Tesla K40m GPU and Ubuntu 14.04.
 
-# Credits
+## Credits
 
 The code is based on [Justin Johnson's code](https://github.com/jcjohnson/neural-style) for artistic style.
 
