@@ -1,6 +1,6 @@
 ## Feed-forward neural doodle
 
-This repository merges [fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle) and  and [Texture Networks](https://github.com/DmitryUlyanov/texture_nets). Read the [blog post (coming soon)](soon) for the details on the doodle algorithm and the [paper](http://arxiv.org/abs/1603.03417) to learn more about texture networks.
+This repository merges [fast-neural-doodle](https://github.com/DmitryUlyanov/fast-neural-doodle) and  and [Texture Networks](https://github.com/DmitryUlyanov/texture_nets). Read the [blog post](http://dmitryulyanov.github.io/feed-forward-neural-doodle/) for the details on the doodle algorithm and the [paper](http://arxiv.org/abs/1603.03417) to learn more about texture networks.
 
 You can find an **online demo** at [likemo.net](http://likemo.net).
 ![](data/starry/grid.png)
