@@ -60,3 +60,18 @@ The code is based on [Justin Johnson's code](https://github.com/jcjohnson/neural
 Uses [buckinha/DiamondSquare](https://github.com/buckinha/DiamondSquare) as is.
 
 Work is supported by Yandex and Skoltech.
+
+## Citation
+
+If you use this code for your research please cite this repository.
+
+```
+@misc{Ulyanov2016onlinedoodle,
+  author = {Ulyanov, Dmitry},
+  title = {Online Neural Doodle},
+  year = {2016},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/DmitryUlyanov/online-neural-doodle}},
+}
+```
